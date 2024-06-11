@@ -1,0 +1,11 @@
+2024-06-09T23:03:21.932Z [movie-management-app] error: Error fetching movie: column Movie.slug does not exist
+2024-06-09T23:43:03.067Z [movie-management-app] error: Error registering user: Illegal arguments: number, number
+2024-06-10T00:16:32.742Z [movie-management-app] error: Error creating comment: notNull Violation: Comment.name cannot be null
+2024-06-10T13:14:07.951Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:16:27.342Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:16:46.497Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:17:17.342Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:20:40.094Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T19:44:19.876Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T19:44:32.563Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T20:10:04.023Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"

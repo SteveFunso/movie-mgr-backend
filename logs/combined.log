@@ -1,0 +1,396 @@
+2024-06-08T12:16:53.360Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T12:48:18.985Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:08:11.922Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:08:34.294Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:08:44.057Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:09:06.532Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:09:18.574Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:09:45.732Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:09:55.874Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:10:09.469Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:10:12.026Z [movie-management-app] info: Server is running on port 5000
+2024-06-08T13:12:09.683Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:03:49.217Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:06:39.276Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:07:13.497Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:07:41.495Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:08:03.492Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:08:13.357Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:08:58.158Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:09:19.168Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:09:35.146Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T16:12:29.458Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T22:37:06.524Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T22:44:02.912Z [movie-management-app] info: HTTP GET /
+2024-06-09T22:44:20.436Z [movie-management-app] info: HTTP GET /
+2024-06-09T22:44:31.804Z [movie-management-app] info: HTTP GET /
+2024-06-09T22:44:34.694Z [movie-management-app] info: HTTP GET /
+2024-06-09T22:51:56.512Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T22:54:12.874Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T22:54:25.262Z [movie-management-app] info: HTTP GET /
+2024-06-09T22:54:25.279Z [movie-management-app] info: HTTP GET /movies
+2024-06-09T22:54:41.579Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T22:54:43.898Z [movie-management-app] info: HTTP GET /
+2024-06-09T22:54:43.912Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-09T23:02:43.955Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-09T23:03:21.879Z [movie-management-app] info: HTTP GET /api/movies/slug
+2024-06-09T23:03:21.932Z [movie-management-app] error: Error fetching movie: column Movie.slug does not exist
+2024-06-09T23:09:40.931Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:10:15.011Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:13:56.403Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:14:04.487Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:14:47.737Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:15:21.568Z [movie-management-app] info: HTTP GET /api/movies/slug
+2024-06-09T23:15:33.810Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-09T23:15:37.671Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-09T23:16:37.656Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-09T23:18:47.026Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-09T23:20:04.308Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-09T23:20:38.330Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-09T23:21:45.549Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-09T23:22:00.405Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-09T23:22:10.555Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-09T23:24:15.530Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-09T23:24:21.635Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-09T23:29:53.027Z [movie-management-app] info: HTTP POST /api/movies/2
+2024-06-09T23:30:00.454Z [movie-management-app] info: HTTP PUT /api/movies/2
+2024-06-09T23:30:14.863Z [movie-management-app] info: HTTP PUT /api/movies/2
+2024-06-09T23:30:23.090Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-09T23:31:50.196Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-09T23:32:00.131Z [movie-management-app] info: HTTP DELETE /api/movies/3
+2024-06-09T23:32:05.934Z [movie-management-app] info: HTTP DELETE /api/movies/3
+2024-06-09T23:37:46.967Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:39:18.090Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:39:24.039Z [movie-management-app] info: HTTP DELETE /api/movies/3
+2024-06-09T23:39:24.043Z [movie-management-app] warn: No token provided
+2024-06-09T23:41:46.130Z [movie-management-app] info: HTTP POST /api/users/register
+2024-06-09T23:43:02.970Z [movie-management-app] info: HTTP POST /api/users/register
+2024-06-09T23:43:03.067Z [movie-management-app] error: Error registering user: Illegal arguments: number, number
+2024-06-09T23:46:27.580Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:46:39.822Z [movie-management-app] info: HTTP POST /api/users/register
+2024-06-09T23:46:50.941Z [movie-management-app] info: HTTP POST /api/users/register
+2024-06-09T23:47:53.163Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-09T23:47:59.616Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-09T23:48:03.367Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-09T23:48:50.278Z [movie-management-app] info: HTTP POST /api/users/profile
+2024-06-09T23:48:56.056Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:48:56.058Z [movie-management-app] warn: No token provided
+2024-06-09T23:49:07.442Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:49:07.445Z [movie-management-app] warn: Invalid token
+2024-06-09T23:49:23.897Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:49:23.898Z [movie-management-app] warn: Invalid token
+2024-06-09T23:49:32.810Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:49:32.812Z [movie-management-app] warn: Invalid token
+2024-06-09T23:54:12.390Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:54:17.216Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-09T23:54:31.732Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:54:31.736Z [movie-management-app] warn: Invalid token
+2024-06-09T23:56:51.325Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:57:02.092Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:57:02.095Z [movie-management-app] warn: Invalid token
+2024-06-09T23:57:24.425Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:57:32.822Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:57:32.825Z [movie-management-app] warn: Invalid token
+2024-06-09T23:58:17.055Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:59:22.212Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:59:22.218Z [movie-management-app] warn: Invalid token
+2024-06-09T23:59:52.766Z [movie-management-app] info: Server is running on port 5000
+2024-06-09T23:59:58.896Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-09T23:59:58.900Z [movie-management-app] warn: Invalid token
+2024-06-10T00:00:13.275Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T00:00:13.281Z [movie-management-app] warn: Invalid token
+2024-06-10T00:01:40.043Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:01:40.586Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T00:02:19.718Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T00:02:24.557Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T00:02:24.561Z [movie-management-app] warn: Invalid token
+2024-06-10T00:02:32.163Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T00:04:58.524Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:08:47.874Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T00:08:47.878Z [movie-management-app] warn: Invalid token
+2024-06-10T00:08:54.507Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T00:12:49.528Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:13:10.704Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:13:30.731Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:13:42.135Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T00:14:00.475Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:14:50.657Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:15:04.581Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T00:16:31.213Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:16:32.721Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T00:16:32.742Z [movie-management-app] error: Error creating comment: notNull Violation: Comment.name cannot be null
+2024-06-10T00:18:28.588Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:19:24.149Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:19:51.017Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T00:20:37.957Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:20:42.109Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T00:20:59.302Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T00:21:18.853Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:21:21.541Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T00:21:40.325Z [movie-management-app] info: HTTP POST /api/comments/1
+2024-06-10T00:21:44.576Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T00:22:11.023Z [movie-management-app] info: HTTP GET /
+2024-06-10T00:22:11.031Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T00:22:11.033Z [movie-management-app] warn: No token provided
+2024-06-10T00:22:35.678Z [movie-management-app] info: HTTP GET /
+2024-06-10T00:22:35.685Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:17:06.333Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:17:06.344Z [movie-management-app] warn: No token provided
+2024-06-10T11:17:23.166Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:17:23.168Z [movie-management-app] warn: No token provided
+2024-06-10T11:21:13.838Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T11:21:19.285Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T11:26:10.798Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T11:26:11.116Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:26:11.119Z [movie-management-app] warn: No token provided
+2024-06-10T11:26:20.403Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T11:26:20.557Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:26:20.561Z [movie-management-app] warn: No token provided
+2024-06-10T11:26:25.865Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:26:25.868Z [movie-management-app] warn: No token provided
+2024-06-10T11:26:25.880Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T11:38:46.207Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:38:46.211Z [movie-management-app] warn: Invalid token
+2024-06-10T11:39:26.000Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T11:39:47.963Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:42:04.320Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T11:50:10.534Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T11:50:59.671Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T11:52:32.496Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-10T11:52:32.676Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T11:52:32.678Z [movie-management-app] warn: No token provided
+2024-06-10T13:11:23.103Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T13:11:23.125Z [movie-management-app] warn: Invalid token
+2024-06-10T13:13:46.877Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T13:13:47.065Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T13:13:47.089Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T13:14:07.865Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T13:14:07.867Z [movie-management-app] warn: No token provided
+2024-06-10T13:14:07.878Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T13:14:07.951Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:16:27.262Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T13:16:27.275Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T13:16:27.342Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:16:46.366Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T13:16:46.381Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T13:16:46.397Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T13:16:46.497Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:17:10.745Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T13:17:17.234Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T13:17:17.268Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T13:17:17.280Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T13:17:17.342Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T13:17:25.399Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T13:20:39.911Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T13:20:39.927Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T13:20:39.941Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T13:20:40.094Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T19:10:14.634Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T19:10:36.521Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:10:36.525Z [movie-management-app] warn: No token provided
+2024-06-10T19:10:40.296Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:10:40.298Z [movie-management-app] warn: No token provided
+2024-06-10T19:12:33.821Z [movie-management-app] info: Server is running on port 5000
+2024-06-10T19:14:01.873Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:14:01.908Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:14:02.512Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:14:17.949Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:14:18.253Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:14:31.547Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:14:31.841Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:15:04.687Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:15:05.023Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:25:07.600Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:25:07.926Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:27:50.143Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:27:50.466Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:29:42.758Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:33:12.736Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:33:22.350Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:33:54.816Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:33:55.145Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:34:29.889Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:34:47.113Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:34:47.315Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:35:28.731Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:35:28.927Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:39:13.896Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:39:41.200Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:39:48.122Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:39:48.261Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:42:07.505Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:42:19.166Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:42:19.332Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:44:06.666Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:44:06.762Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:44:18.395Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:44:19.853Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T19:44:19.863Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T19:44:19.876Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T19:44:30.129Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T19:44:32.475Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:44:32.534Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T19:44:32.547Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T19:44:32.563Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T19:45:54.225Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:48:03.299Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:48:03.476Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:48:07.982Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:48:08.000Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:48:13.727Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:48:27.237Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:48:27.372Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:49:47.013Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:49:47.138Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:49:49.638Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:49:49.665Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T19:53:17.176Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:53:25.251Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:53:25.404Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:53:38.202Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:53:38.353Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:54:11.925Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T19:54:12.086Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:54:18.474Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T19:54:18.500Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:05:38.957Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:07:54.402Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:08:16.307Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:08:16.405Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:08:17.147Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:08:17.214Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:09:20.154Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:09:20.240Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:09:25.643Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:09:25.682Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:09:55.892Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T20:09:56.017Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:09:56.039Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:10:04.003Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:10:04.011Z [movie-management-app] info: HTTP GET /api/comments/inception
+2024-06-10T20:10:04.023Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-10T20:13:47.343Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:13:47.406Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:14:10.214Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:14:10.279Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:14:18.389Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T20:22:11.351Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:22:11.426Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:22:11.517Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:22:11.527Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:22:12.077Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:22:21.409Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:22:21.459Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:22:21.541Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:22:21.594Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:22:52.002Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T20:23:01.873Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:23:01.906Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:27:04.679Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:27:10.108Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:27:10.131Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:28:48.351Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:28:48.391Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:28:48.500Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:28:48.544Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:30:16.366Z [movie-management-app] info: HTTP PUT /api/movies/2
+2024-06-10T20:30:16.368Z [movie-management-app] warn: No token provided
+2024-06-10T20:30:21.115Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T20:30:39.596Z [movie-management-app] info: HTTP PUT /api/movies/2
+2024-06-10T20:31:10.920Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:31:11.005Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:31:11.031Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:31:12.758Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:31:15.714Z [movie-management-app] info: HTTP GET /api/movies/the-dark-knight
+2024-06-10T20:31:15.732Z [movie-management-app] info: HTTP GET /api/comments/2
+2024-06-10T20:31:40.060Z [movie-management-app] info: HTTP POST /api/comments
+2024-06-10T20:31:43.298Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:31:44.741Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:31:44.760Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:33:15.934Z [movie-management-app] info: HTTP PUT /api/movies/1
+2024-06-10T20:34:58.244Z [movie-management-app] info: HTTP PUT /api/movies/1
+2024-06-10T20:35:08.290Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:35:08.314Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:35:08.345Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:35:45.477Z [movie-management-app] info: HTTP PUT /api/movies/1
+2024-06-10T20:35:52.744Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:35:52.776Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T20:35:52.808Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T20:35:58.543Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:36:10.249Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:36:10.320Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:39:46.239Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T20:39:46.323Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:40:32.996Z [movie-management-app] info: HTTP POST /api/users/register
+2024-06-10T20:40:33.139Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T20:40:33.140Z [movie-management-app] warn: Invalid token
+2024-06-10T22:35:52.623Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T22:35:57.873Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T22:36:05.775Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T22:36:05.776Z [movie-management-app] warn: Invalid token
+2024-06-10T22:36:15.016Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T22:36:15.171Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T22:36:15.193Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T22:37:32.263Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T22:37:34.474Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T22:37:36.663Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T22:37:37.335Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T22:38:40.145Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T22:38:40.148Z [movie-management-app] warn: Invalid token
+2024-06-10T22:38:45.884Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-10T22:38:46.011Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T22:38:46.048Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T22:40:17.551Z [movie-management-app] info: HTTP POST /api/movies
+2024-06-10T22:41:35.413Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-10T22:41:35.573Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T22:41:47.264Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-10T22:41:47.322Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-10T22:42:01.484Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T22:42:03.302Z [movie-management-app] info: HTTP GET /api/movies/lord-of-the-rings
+2024-06-10T22:42:03.330Z [movie-management-app] info: HTTP GET /api/comments/5
+2024-06-10T22:44:36.723Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-10T22:45:42.936Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-10T22:45:42.941Z [movie-management-app] warn: Invalid token
+2024-06-11T10:09:38.893Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-11T10:09:39.004Z [movie-management-app] warn: Invalid token
+2024-06-11T10:09:41.437Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-11T10:09:41.444Z [movie-management-app] warn: Invalid token
+2024-06-11T10:21:49.017Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-11T10:21:51.628Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-11T10:21:52.642Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-11T10:22:28.260Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-11T10:22:28.506Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-11T10:22:28.550Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:22:40.006Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:22:52.250Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-11T10:22:52.467Z [movie-management-app] info: HTTP GET /api/users/profile
+2024-06-11T10:22:52.497Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:22:55.186Z [movie-management-app] info: HTTP GET /api/movies/the-dark-knight
+2024-06-11T10:22:55.216Z [movie-management-app] info: HTTP GET /api/comments/2
+2024-06-11T10:23:07.162Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:23:09.380Z [movie-management-app] info: HTTP GET /api/movies/abc
+2024-06-11T10:23:09.414Z [movie-management-app] info: HTTP GET /api/comments/4
+2024-06-11T10:23:25.960Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:23:34.408Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:44:08.407Z [movie-management-app] info: HTTP GET /api/movies/the-dark-knight
+2024-06-11T10:44:08.529Z [movie-management-app] info: HTTP GET /api/comments/2
+2024-06-11T10:44:21.128Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:44:50.803Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:53:27.508Z [movie-management-app] info: HTTP GET /api/movies/the-dark-knight
+2024-06-11T10:53:27.583Z [movie-management-app] info: HTTP GET /api/comments/2
+2024-06-11T10:53:30.503Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:53:33.080Z [movie-management-app] info: HTTP GET /api/movies/inception
+2024-06-11T10:53:33.103Z [movie-management-app] info: HTTP GET /api/comments/1
+2024-06-11T10:53:38.724Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T10:53:40.002Z [movie-management-app] info: HTTP GET /api/movies/lord-of-the-rings
+2024-06-11T10:53:40.031Z [movie-management-app] info: HTTP GET /api/comments/5
+2024-06-11T10:53:49.039Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T11:07:01.030Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T11:07:57.456Z [movie-management-app] info: HTTP GET /api/movies/lord-of-the-rings
+2024-06-11T11:07:57.558Z [movie-management-app] info: HTTP GET /api/comments/5
+2024-06-11T11:08:01.143Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T11:10:18.873Z [movie-management-app] info: HTTP POST /api/movies/create
+2024-06-11T11:10:18.959Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T11:11:34.472Z [movie-management-app] info: HTTP POST /api/users/login
+2024-06-11T11:11:48.737Z [movie-management-app] info: HTTP GET /api/movies
+2024-06-11T11:22:12.415Z [movie-management-app] info: Server is running on port 5000
