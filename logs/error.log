@@ -9,3 +9,8 @@
 2024-06-10T19:44:19.876Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
 2024-06-10T19:44:32.563Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
 2024-06-10T20:10:04.023Z [movie-management-app] error: Error fetching comments: invalid input syntax for type integer: "inception"
+2024-06-11T14:26:38.840Z [movie-management-app] error: Error registering user: newUser is not defined
+2024-06-11T14:28:12.800Z [movie-management-app] error: Error registering user: newUser is not defined
+2024-06-11T14:28:45.596Z [movie-management-app] error: Error registering user: Validation error
+2024-06-11T14:41:56.357Z [movie-management-app] error: Error registering user: newUser is not defined
+2024-06-11T14:44:42.800Z [movie-management-app] error: Error registering user: user is not defined
